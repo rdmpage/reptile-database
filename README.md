@@ -1,5 +1,6 @@
-# reptile-database
-Reptile database
+# Reptile Database
+
+Notes on [The Reptile database](http://www.reptile-database.org). See [Reptile Database data sets for download](http://www.reptile-database.org/data/) for downloads.
 
 
 ## Notes on tab-delimited data from Figshare
