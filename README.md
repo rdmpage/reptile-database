@@ -2,6 +2,8 @@
 
 Notes on [The Reptile database](http://www.reptile-database.org). See [Reptile Database data sets for download](http://www.reptile-database.org/data/) for downloads.
 
+The file `reptile_database_bibliography.xslx` was supplied by Peter Uetz peter@uetz.us 2020-11-07.
+
 
 ## Notes on tab-delimited data from Figshare
 
